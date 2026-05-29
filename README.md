@@ -20,14 +20,14 @@
 | [NovLearn](https://github.com/AlexAnsart/Novlearn) | Plateforme d'entraînement personnalisée pour le Bac de maths | TypeScript · React |
 | [Review AI Assistant](https://github.com/Luxods/review-ai-assistant) | Outil d'assistance à l'écriture d'avis par IA | TypeScript |
 | [CLIA Website](https://github.com/Luxods/CLIA) | Site web de Centrale Lyon IA | TypeScript |
-| [NovLearn Exercice Builder](https://github.com/Luxods/NovLearn_Exercice-Builder) | Génération d'exercices de maths pour Terminale | JavaScript |
+| [NovLearn Exercice Builder](https://github.com/Luxods/NovLearn_Exercice-Builder) | Création d'exercices de maths pour Terminale | JavaScript |
 
 ---
 
 ## 📫 Me contacter
 
 - 📧 [balthazarbuclon@gmail.com](mailto:ton.email@exemple.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/balthazar-buclon/) *(à ajouter)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/balthazar-buclon/)
 
 
 ---
