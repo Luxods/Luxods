@@ -1,4 +1,4 @@
-# Bonjour, je suis Balthazar 👋
+# Bonjour, je suis Balthazar 
 
 Étudiant développeur web basé à Lyon, passionné par la construction de produits utiles et bien conçus. Je travaille principalement avec TypeScript sur des projets fullstack, avec un attrait particulier pour les interfaces pédagogiques et les outils IA. 
 
@@ -32,4 +32,4 @@
 
 ---
 
-*Ouvert aux opportunités de projet web — stage ou freelance.*
+*Ouvert aux opportunités de projet web, stage ou freelance.*
