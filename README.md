@@ -46,24 +46,14 @@
 
 | Projet | Description | Stack |
 |---|---|---|
-| **MyCook** | Marketplace de cuisiniers amateurs, lancement en septembre 2026 | TypeScript · Next.js · PostgreSQL · Stripe |
-| [NovLearn](#) | Plateforme d'entraînement personnalisée pour le Bac de maths | TypeScript · React |
-| [Review AI Assistant](#) | Outil d'assistance à l'écriture d'avis par IA | TypeScript |
-| [CLIA Website](#) | Site web de Centrale Lyon IA | TypeScript |
-| [NovLearn Exercice Builder](#) | Création d'exercices de maths pour Terminale | JavaScript |
-
----
-
-## Parcours
-
-**2026** Développeur freelance, web apps et sites pour PME et fondateurs
-**2025** École Centrale de Lyon, élève ingénieur
-**2023 à 2025** Prépa MP, Lycée Faidherbe (Lille)
+| [**MyCook**](https://mycookapp.fr) | Marketplace de cuisiniers amateurs, lancement en septembre 2026 | TypeScript · Next.js · PostgreSQL · Stripe |
+| [**NovLearn**](https://novlearn.fr) | Plateforme d'entraînement personnalisée pour le Bac de maths | TypeScript · React |
+| [Review AI Assistant](https://github.com/Luxods/review-ai-assistant) | Outil d'assistance à l'écriture d'avis par IA | TypeScript |
+| [CLIA Website](https://github.com/Luxods/clia-website) | Site web de Centrale Lyon IA | TypeScript |
+| [NovLearn Exercice Builder](https://github.com/Luxods/novlearn-exercice-builder) | Création d'exercices de maths pour Terminale | JavaScript |
 
 ---
 
 ## Me contacter
 
-[Portfolio](#) · [LinkedIn](https://linkedin.com/in/balthazar-buclon) · balthazarbuclon [at] gmail [dot] com
-
-Ouvert aux opportunités de projet web, stage ou freelance.
+[Portfolio](#) · [LinkedIn](https://linkedin.com/in/balthazar-buclon)
