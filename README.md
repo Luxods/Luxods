@@ -1,6 +1,6 @@
 # Bonjour, je suis Balthazar
 
-Élève ingénieur à Centrale Lyon et développeur freelance à Lyon. Je conçois, développe et mets en production des applications web pour des PME et des fondateurs, principalement en TypeScript. Attrait particulier pour les interfaces pédagogiques et les outils IA.
+Élève ingénieur à Centrale Lyon et développeur freelance à Lyon. Je conçois, développe et mets en production des applications web pour des PME et des créateurs de projets, principalement en TypeScript. Attrait particulier pour les interfaces pédagogiques et les outils IA.
 
 ---
 
